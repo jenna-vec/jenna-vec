@@ -1,6 +1,12 @@
 ### Jenna LeFort - Full Stack Web Development
 
-Thank you for viewing my github.
+I am a web developer with one year of experience, and four years of visual design experience.
+Thank you for viewing my github. View the links below or my public repositories.
+
+ :round_pushpin: [Resume](https://www.jennalefort.com/)
+ :round_pushpin: [LinkedIn](https://www.linkedin.com/in/jennalefort)
+ :round_pushpin: [View Portfolio Website](https://www.jennalefort.com/)
+
 
 | Category | Skills/Libraries |
 | --- | --- |
@@ -12,6 +18,3 @@ Thank you for viewing my github.
 | Design Tools | Adobe XD, Adobe Illustrator, Adobe Photoshop |
 
 
- :round_pushpin: [Resume](https://www.jennalefort.com/)
- :round_pushpin: [LinkedIn](https://www.linkedin.com/in/jennalefort)
- :round_pushpin: [View Portfolio Website](https://www.jennalefort.com/)
