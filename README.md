@@ -14,7 +14,7 @@ Thank you for viewing my github. View the links below or my public repositories.
 | Backend Frameworks | Node.js, Firebase, Express.js |
 | Frontend Framework | React |
 | Databases | Firestore, mySQL |
-| Others | JQuery, SVG, npm, git |
+| Others | npm, git, JQuery, Bootstrap, SVG |
 | Design Tools | Adobe XD, Adobe Illustrator, Adobe Photoshop |
 
 
