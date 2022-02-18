@@ -1,9 +1,9 @@
 ### Jenna LeFort - Full Stack Web Development
 
-I am a web developer with 2 years of experience, and four years of visual design experience.  
+I am a web developer with two years of experience, and four years of visual design experience.  
 Thank you for viewing my github. View the links below or my public repositories.
 
- :round_pushpin: [Resume](https://drive.google.com/file/d/1pZGJIX6s6eaakyrH3oLflenzBAddaV8I/view?usp=sharing)
+ :round_pushpin: [Resume](https://drive.google.com/file/d/1mLo_0pA-KmiYnUt5y1zDPV3GHHYUYo5M/view?usp=sharing)
  :round_pushpin: [LinkedIn](www.linkedin.com/in/jennalefort)
  :round_pushpin: [View Portfolio Website](https://www.jennalefort.com/)  
 
