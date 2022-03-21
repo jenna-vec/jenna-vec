@@ -3,7 +3,6 @@
 I am a web developer with two years of experience, and four years of visual design experience.  
 Thank you for viewing my github. View the links below or my public repositories.
 
- :round_pushpin: [Resume](https://drive.google.com/file/d/1Bd_pNXf01Lb9RDj0iAKWXHVamgNWyY29/view?usp=sharing)
  :round_pushpin: [LinkedIn](https://www.linkedin.com/in/jennalefort/)
  :round_pushpin: [View Portfolio Website](https://www.jennalefort.com/)  
 
