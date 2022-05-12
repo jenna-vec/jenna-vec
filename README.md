@@ -1,4 +1,4 @@
-### Jenna LeFort - Full Stack Web Development
+### Jenna LeFort - Software Engineering
 
 I am a web developer with two years of experience, and four years of visual design experience.  
 Thank you for viewing my github. View the links below or my public repositories.
