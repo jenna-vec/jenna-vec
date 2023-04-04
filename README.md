@@ -9,7 +9,7 @@ Thank you for viewing my github. View the links below or my public repositories.
 
 | Category | Skills/Libraries |
 | --- | --- |
-| Languages | Javascript | Java | CSS | HTML |
+| Languages | Javascript, Java, CSS, HTML |
 | Backend Frameworks | Node.js, Firebase, Express.js |
 | Frontend Framework | React |
 | Databases | Firestore, mySQL |
